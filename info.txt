@@ -1,4 +1,11 @@
 //git --version
 //git init
+//git add .
+//git commit -m "day1"
 
+//login github
+//Create a New repository
+git remote add origin https://github.com/rushalikame/gitsession1.git
+git branch -M main
+git push -u origin main
 
